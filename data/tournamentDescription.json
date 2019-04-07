@@ -1,0 +1,50 @@
+{
+  "tournamentTitle": "Быстрые шахматы №2. Март-Апрель 2019. Плейофф",
+  "tournamentId": "rapid2.mar2019.playoff",
+  "players": [
+    "alexander.shkabara",
+    "ilya.maltsev",
+    "alexey.matveev",
+    "alexey.polurotov"
+  ],
+  "arbiter": "ilya.maltsev",
+  "deputyArbiters": [
+  ],
+  "gameWriters": [
+    "alexey.matveev",
+    "alexey.biryukov",
+    "anatoly.morozov",
+    "alexey.shklyar",
+    "ilya.maltsev"
+  ],
+  "regulations": "Плейофф турнира №2 по быстрым шахматам. Проводим с 4-го марта по 10-апреля включительно. <br>Играем по <b>круговой схеме</b> с контролем времени 10 минут + 10 секунд добавление на ход.<br>Каждый играет с соперником <b>одну</b> партию, цвет фиксирован (будьте внимательны, при несоответствии цветов партия не засчитывается).<br>Конкретные дата и время игр не фиксированы, играем по готовности, но не затягиваем.<br>Тай-брейк коэффициенты: количество побед, Neustadtl (Sonneborn-Berger), Koya.<br><br>По окончании круговой части турнира 11-го и 12-го апреля играем тай-брейк между первыми четырьмя местами.<br>Жеребьёвку проведём выбором из корзины вслепую. В полуфинале играются две игры с контролем 10+10. В случае ничьей играется армагеддон: одна партия, белые 5+3, чёрные 4+3, цвет определяем подбрасыванием монеты, ничья трактуется в пользу чёрных. За третье место играют проигравшие в полуфинале по тому же регламенту. В финале играем 2 игры с контролем 10+10, при ничьей ещё две партии с контролем 5+3, дальше армагеддон.",
+  "tournamentSetup": {
+    "type": "playoff",
+    "game-result-system": "STANDARD",
+    "win-decision": "classic->rapid->blitz->armageddon",
+    "level-setups": [
+      {
+        "level": "SEMIFINAL",
+        "classic-rounds": 0,
+        "rapid-rounds": 2,
+        "blitz-rounds": 0,
+        "armageddon": true
+      },
+      {
+        "level": "FOR_THIRD",
+        "classic-rounds": 0,
+        "rapid-rounds": 2,
+        "blitz-rounds": 0,
+        "armageddon": true
+      },
+      {
+        "level": "FINAL",
+        "classic-rounds": 0,
+        "rapid-rounds": 2,
+        "blitz-rounds": 2,
+        "armageddon": true
+      }
+    ]
+  },
+  "startDay": "2019-04-11"
+}
