@@ -46,5 +46,12 @@
       }
     ]
   },
-  "startDay": "2019-04-11"
+  "startDay": "2019-04-11",
+  "links": [
+    {
+      "purpose": "roundrobin",
+      "value": "https://chessinappliedtech.github.io/rapid2-mar2019/",
+      "name": "<<< Круговой турнир"
+    }
+  ]
 }
