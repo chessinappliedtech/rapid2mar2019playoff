@@ -10,5 +10,17 @@
     "outerServiceLinks": {
       "lichess": "https://lichess.org/vRHcvRFV"
     }
+  },
+  {
+    "whiteId": "alexander.shkabara",
+    "blackId": "ilya.maltsev",
+    "tournamentId": "rapid2.mar2019.playoff",
+    "date": "11-04-2019",
+    "result": "ww",
+    "timeControlType": "RAPID",
+    "pgnLocation": "data/alexey.matveev-alexey.shklyar",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/vRHcvRFV"
+    }
   }
 ]
