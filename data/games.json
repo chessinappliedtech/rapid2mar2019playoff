@@ -22,5 +22,13 @@
     "outerServiceLinks": {
       "lichess": "https://lichess.org/DPwbkfal"
     }
+  },
+  {
+    "whiteId": "alexey.shklyar",
+    "blackId": "alexey.matveev",
+    "tournamentId": "rapid2.mar2019.playoff",
+    "date": "11-04-2019",
+    "result": "bw",
+    "timeControlType": "RAPID"
   }
 ]

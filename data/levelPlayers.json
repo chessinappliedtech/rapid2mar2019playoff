@@ -10,9 +10,11 @@
     "level": "SEMIFINAL"
   },
   {
-    "level": "FOR_THIRD"
+    "level": "FOR_THIRD",
+    "player2": "alexey.shklyar"
   },
   {
-    "level": "FINAL"
+    "level": "FINAL",
+    "player2": "alexey.matveev"
   }
 ]
