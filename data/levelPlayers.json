@@ -5,16 +5,16 @@
     "level": "SEMIFINAL"
   },
   {
-    "player1": "alexey.matveev",
-    "player2": "alexey.shklyar",
-    "level": "SEMIFINAL"
+    "level": "FINAL",
+    "player2": "alexey.matveev"
   },
   {
     "level": "FOR_THIRD",
     "player2": "alexey.shklyar"
   },
   {
-    "level": "FINAL",
-    "player2": "alexey.matveev"
+    "player1": "alexey.matveev",
+    "player2": "alexey.shklyar",
+    "level": "SEMIFINAL"
   }
 ]
