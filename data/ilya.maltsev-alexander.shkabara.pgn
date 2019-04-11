@@ -1,0 +1,17 @@
+[Event "Быстрые шахматы №2. Март-Апрель 2019. Плейофф"]
+[Site "https://lichess.org/2pDaM4v2"]
+[Date "11.04.2019, 16:51:00"]
+[Round "-"]
+[White "Илья Мальцев"]
+[Black "Александр Шкабара"]
+[Result "0-1"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C53"]
+[Opening "Italian Game: Classical Variation"]
+[Termination "Unknown"]
+[Annotator "lichess.org"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 { C53 Italian Game: Classical Variation } h6 5. d3 d6 6. Be3 Bxe3 7. fxe3 Nf6 8. Nbd2 d5 9. exd5 Nxd5 10. Qe2 Bg4 11. h3 Bh5 12. g4 Bg6 13. h4 Qd7 14. h5 Bh7 15. O-O-O O-O-O 16. Rhg1 Rhe8 17. Ne4 a6 18. Bb3 Nf6 19. Nfd2 Qxd3 20. Qxd3 Rxd3 21. Nxf6 gxf6 22. Bc2 Red8 23. Bxd3 Rxd3 24. Nc4 e4 25. Rxd3 exd3 26. Kd2 b5 27. Na3 Ne5 28. Nb1 Nf3+ 29. Kd1 Nxg1 30. Nd2 Nh3 31. Ke1 c5 32. Kf1 Ng5 33. Kg2 f5 34. Kg3 fxg4 35. Kxg4 Kd7 36. Kf4 Ke6 37. e4 f5 38. exf5+ Bxf5 39. b3 Nh3+ 40. Ke3 Ke5 41. Nf3+ Kd5 42. Nh4 Bd7 43. Kxd3 Ke5 44. Ke3 Kf6 45. Ke4 Bc6+ 46. Ke3 Kg5 47. Ng6 Kxh5 48. Ne5 Bg2 49. b4 c4 50. Nd7 Kg4 51. Nc5 Nf4 52. Nxa6 h5 53. Nc7 Bc6 54. a4 bxa4 55. b5 Bb7 56. Na6 h4 57. Nc5 Bd5 58. Nxa4 h3 59. Kf2 h2 { Black wins. } 0-1

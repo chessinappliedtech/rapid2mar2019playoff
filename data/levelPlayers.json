@@ -1,16 +1,18 @@
 [
   {
-    "player1": "alexander.shkabara",
-    "player2": "ilya.maltsev",
-    "level": "SEMIFINAL"
-  },
-  {
     "level": "FINAL",
+    "player1": "alexander.shkabara",
     "player2": "alexey.matveev"
   },
   {
     "level": "FOR_THIRD",
+    "player1": "ilya.maltsev",
     "player2": "alexey.shklyar"
+  },
+  {
+    "player1": "alexander.shkabara",
+    "player2": "ilya.maltsev",
+    "level": "SEMIFINAL"
   },
   {
     "player1": "alexey.matveev",
