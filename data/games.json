@@ -6,7 +6,7 @@
     "date": "11-04-2019",
     "result": "ww",
     "timeControlType": "RAPID",
-    "pgnLocation": "data/alexey.matveev-alexey.shklyar",
+    "pgnLocation": "data/alexey.matveev-alexey.shklyar.pgn",
     "outerServiceLinks": {
       "lichess": "https://lichess.org/vRHcvRFV"
     }
@@ -18,9 +18,9 @@
     "date": "11-04-2019",
     "result": "ww",
     "timeControlType": "RAPID",
-    "pgnLocation": "data/alexey.matveev-alexey.shklyar",
+    "pgnLocation": "data/alexander.shkabara-ilya.maltsev.pgn",
     "outerServiceLinks": {
-      "lichess": "https://lichess.org/vRHcvRFV"
+      "lichess": "https://lichess.org/DPwbkfal"
     }
   }
 ]
