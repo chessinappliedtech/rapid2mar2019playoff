@@ -1,3 +1,10 @@
 [
-
+  {
+    "whiteId": "alexey.matveev",
+    "blackId": "alexey.shklyar",
+    "tournamentId": "rapid2.mar2019.playoff",
+    "date": "11-04-2019",
+    "result": "ww",
+    "timeControlType": "RAPID"
+  }
 ]
