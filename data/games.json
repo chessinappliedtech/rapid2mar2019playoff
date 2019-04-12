@@ -82,5 +82,17 @@
     "outerServiceLinks": {
       "lichess": "https://lichess.org/1gFLIWoS"
     }
+  },
+  {
+    "whiteId": "alexey.matveev",
+    "blackId": "alexander.shkabara",
+    "tournamentId": "rapid2.mar2019.playoff",
+    "date": "12-04-2019",
+    "result": "bw",
+    "timeControlType": "RAPID",
+    "pgnLocation": "data/alexey.matveev-alexander.shkabara.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/0qX7xGif"
+    }
   }
 ]
