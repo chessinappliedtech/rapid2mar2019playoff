@@ -1,0 +1,17 @@
+[Event "Быстрые шахматы №2. Март-Апрель 2019. Плейофф"]
+[Site "https://lichess.org/cbUJgvUb"]
+[Date "12.04.2019, 10:44:03"]
+[Round "-"]
+[White "Илья Мальцев"]
+[Black "Алексей Шкляр"]
+[Result "1-0"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B18"]
+[Opening "Caro-Kann Defense: Classical Variation"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 { B18 Caro-Kann Defense: Classical Variation } 5. Ng3 Bg6 6. Bf4 e6 7. Nf3 Bd6 8. Qd2 Bxf4 9. Qxf4 h6 10. Ne5 Nd7 11. Nxg6 fxg6 12. Bd3 Ne7 13. O-O-O Nd5 14. Bxg6+ Ke7 15. Qf7+ Kd6 16. Rhe1 e5 17. dxe5+ Nxe5 18. Ne4# { White wins by checkmate. } 1-0

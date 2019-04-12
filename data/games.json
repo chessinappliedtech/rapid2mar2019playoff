@@ -53,7 +53,11 @@
     "tournamentId": "rapid2.mar2019.playoff",
     "date": "12-04-2019",
     "result": "ww",
-    "timeControlType": "RAPID"
+    "timeControlType": "RAPID",
+    "pgnLocation": "data/ilya.maltsev-alexey.shklyar.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/cbUJgvUb"
+    }
   },
   {
     "whiteId": "alexey.shklyar",
@@ -61,6 +65,22 @@
     "tournamentId": "rapid2.mar2019.playoff",
     "date": "12-04-2019",
     "result": "bw",
-    "timeControlType": "RAPID"
+    "timeControlType": "RAPID",
+    "pgnLocation": "data/alexey.shklyar-ilya.maltsev.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/PVOSUG0t"
+    }
+  },
+  {
+    "whiteId": "alexander.shkabara",
+    "blackId": "alexey.matveev",
+    "tournamentId": "rapid2.mar2019.playoff",
+    "date": "12-04-2019",
+    "result": "bw",
+    "timeControlType": "RAPID",
+    "pgnLocation": "data/alexander.shkabara-alexey.matveev.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/1gFLIWoS"
+    }
   }
 ]
