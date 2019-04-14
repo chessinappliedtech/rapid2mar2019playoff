@@ -38,8 +38,6 @@
                         <argument>data/tournamentDescription.json</argument>
                         <argument>data/players.json</argument>
                         <argument>data/games.json</argument>
-                        <argument>data/ratings.json</argument>
-                        <argument>data/kvalues.json</argument>
                         <argument>data/levelPlayers.json</argument>
                         <argument>.</argument>
                     </arguments>
